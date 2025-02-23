@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35.54 36.87">
+  <g id="c" data-name="Calque 1">
+    <g>
+      <path d="M0,17.77l14.18,4.57L17.77,0,0,17.77Z" style="fill: #01a7f5; fill-rule: evenodd;"/>
+      <path d="M14.18,22.34l21.36-4.57L17.77,0l-3.59,22.34Z" style="fill: #013242; fill-rule: evenodd;"/>
+      <path d="M14.18,23.67l3.59,13.2L0,19.1l14.18,4.57Z" style="fill: #0190d3; fill-rule: evenodd;"/>
+      <path d="M14.18,23.67l21.36-4.57-17.77,17.77-3.59-13.2Z" style="fill: #013140; fill-rule: evenodd;"/>
+    </g>
+  </g>
+</svg>
